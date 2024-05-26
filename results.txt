@@ -1,0 +1,14 @@
+Model: vit_b
+Average time: 26.057398289442062
+PMAE: 14.56%
+Successful counts: 100
+
+Model: vit_l
+Average time: 31.754346042871475
+PMAE: 8.96%
+Successful counts: 100
+
+Model: vit_h
+Average time: 37.943743308385216
+PMAE: 11.08%
+Successful counts: 100
